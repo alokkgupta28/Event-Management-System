@@ -5,7 +5,7 @@ A comprehensive PHP-based event management system with user authentication, even
 ## 🎥 Demo Video
 
 ### Option 1: YouTube Video
-[![Event Management System Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Event Management System Demo](https://img.youtube.com/vi/5CRHj7II9ew/0.jpg)](https://www.youtube.com/watch?v=5CRHj7II9ew)
 
 *Click the image above to watch the full demo video*
 
