@@ -1,0 +1,59 @@
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Database credentials (if using separate config files)
+config/database.php
+
+# Uploads directory (exclude uploaded files but keep directory structure)
+uploads/*
+!uploads/.gitkeep
+
+# Logs
+*.log
+logs/
+
+# Cache
+cache/
+tmp/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Composer (if using)
+vendor/
+composer.lock
+
+# Node modules (if using)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Test files
+test_*.php
+
+# Maintenance files (sensitive)
+maintenance/reset_admin.php
+
+# CSV files with sensitive data
+*.csv
