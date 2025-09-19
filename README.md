@@ -2,6 +2,22 @@
 
 A comprehensive PHP-based event management system with user authentication, event registration, and payment integration using Razorpay.
 
+## 🎥 Demo Video
+
+### Option 1: YouTube Video
+[![Event Management System Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+*Click the image above to watch the full demo video*
+
+### Option 2: Direct Video File
+📹 **[Download Demo Video](demo/demo-video.mp4)** - Direct download of the screen recording
+
+*Note: If you upload your video file to the repository, replace `demo/demo-video.mp4` with your actual video file path*
+
+## 📸 Screenshots
+
+[Add screenshots of your application here]
+
 ## Features
 
 - **User Authentication**: Registration, login, password reset functionality
