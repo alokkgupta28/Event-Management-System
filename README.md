@@ -4,31 +4,24 @@ A comprehensive PHP-based event management system with user authentication, even
 
 ## 🎥 Demo Video
 
-📹 **[Watch Demo Video](media/demo-video.mp4)** - Complete screen recording of the Event Management System
 
-*Download and watch the full demonstration of all features*
 
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](media/screenshots/homepage.png)
+<img width="1333" height="767" alt="homepage" src="https://github.com/user-attachments/assets/a83ffb6d-bd1c-4108-a07f-a86244a6dfb2" />
+
 *Main landing page with event listings*
 
 ### User Dashboard
-![User Dashboard](media/screenshots/dashboard.png)
+<img width="1337" height="767" alt="dashboard" src="https://github.com/user-attachments/assets/e07afbcc-f531-40f6-a0fe-4a8d063820b5" />
+
 *User dashboard after login*
 
-### Event Registration
-![Event Registration](media/screenshots/registration.png)
+### Events Page
+<img width="1348" height="767" alt="events" src="https://github.com/user-attachments/assets/f253775a-d7d9-4766-8398-4d17cf8ef230" />
+
 *Event registration and payment process*
-
-### Admin Panel
-![Admin Panel](media/screenshots/admin-panel.png)
-*Administrative interface for managing events and users*
-
-### Mobile View
-![Mobile View](media/screenshots/mobile-view.png)
-*Responsive design on mobile devices*
 
 ## Features
 
